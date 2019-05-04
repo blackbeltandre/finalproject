@@ -1,0 +1,51 @@
+		.header{
+			width: 100%;
+			background-color: white;
+			text-decoration: 70px;
+			color : white;
+			size: 6px;
+		}
+		#body{
+			width: 100%;
+			height: 300px;
+			background-color: #eee;
+			box-shadow: 2px;
+			background-clip: 30%;
+			border-bottom-color: white;
+			border-bottom: 1px;
+		}
+		.footer{
+			border-bottom: 1px;
+			margin-bottom: 10px;
+			width: 100%;
+			background-color: black;
+			height: 10%;
+			color: gold;
+			position: relative;
+			margin-bottom: 10px;
+			margin-top: 50px;
+		}
+		.detail{
+			width: 100%;
+			height: 400px;
+			background-color: #eee;
+			box-shadow: 2px;
+			background-clip: 30%;
+			border-bottom-color: white;
+			border-bottom: 1px;
+			color : gray;
+			position: relative;
+		}
+		.link{
+			border-width: 2px;
+			width: 100px;
+			height: 20px;
+			color: white;
+			size: 3px;
+			border-radius: 20px;
+			border-bottom-left-radius: 0px;
+			text-shadow: 2px;
+			box-shadow: 20px;
+			border-collapse: 2px;
+			background-color: red;
+		}
